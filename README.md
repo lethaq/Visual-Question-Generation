@@ -20,6 +20,7 @@ Once you clone this repo, run the vocab.py, store_dataset.py, split_dataset.py, 
 ```shell
 $ python vocab.py
 $ python store_dataset.py
+$ python split_dataset.py
 $ python train_vqgrad.py
 $ python evaluate_vqgrad.py
 ```
