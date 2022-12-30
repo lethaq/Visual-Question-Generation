@@ -47,6 +47,6 @@ ISSN = {2078-2489}
 ```
 
 ## Contact
-For more information, please contact me on ledri.thaqi[at]uzh.ch.
+If you have any questions, please contact me on ledri.thaqi[at]uzh.ch.
 
 
