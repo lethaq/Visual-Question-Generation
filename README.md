@@ -26,7 +26,7 @@ $ python evaluate_vqgrad.py
 ```
 
 ## Citation
-This repository was implemented and extended with the help of the following previous work:
+The implementation of this project was inspired by the following previous work:
 
 ```
 @Article{info12080334,
